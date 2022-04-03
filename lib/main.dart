@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       initialRoute: "/",
-      title: "NEFİS YEMEK TARİFLERİ",
+      title: "ENFES YEMEK TARİFLERİ",
       routes: {
         "/": (context) => giris(),
         "/kayitOl": (context) => kayitOl(),
